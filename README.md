@@ -1,2 +1,2 @@
-# CodingDojo
+# CodingDojo-MIT-GL
 classes
